@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Replace the link below with the path to your photo -->
-  <img src="images/jubin.jpg" alt="Jubin Joseph" width="200"/>
+  <img src="/Users/jubinjoseph/Downloads/DSC_0604.JPG" alt="Jubin Joseph" width="200"/>
 </p>
 
 <p align="center">

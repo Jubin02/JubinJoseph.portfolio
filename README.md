@@ -1,10 +1,4 @@
 # JubinJoseph.portfolio
-
-<p align="center">
-  <!-- Replace the link below with the path to your photo -->
-  <img src="JubinJoseph.JPG" alt="Jubin Joseph" width="200"/>
-</p>
-
 <p align="center">
 Graduate Automation Engineer | MEngSc Electronic & Computer Engineering  
 University College Dublin  
